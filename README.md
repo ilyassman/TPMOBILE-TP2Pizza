@@ -36,8 +36,8 @@ Le projet se compose des composants principaux suivants :
 ## Configuration requise
 
 - Android Studio
-- SDK Android minimum : (à spécifier selon votre configuration)
-- Gradle version : (à spécifier selon votre configuration)
+- SDK Android 
+- Gradle 
 
 ## Contribution
 
@@ -48,3 +48,6 @@ Les contributions à ce projet sont les bienvenues. Veuillez suivre ces étapes 
 3. Committez vos changements (`git commit -m 'Add some AmazingFeature'`)
 4. Poussez vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrez une Pull Request
+## Screen Video
+[![Vidéo de démonstration]](https://github.com/user-attachments/assets/c5e61594-54fc-42e3-b7af-e0bdae4e13c8)
+
